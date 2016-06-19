@@ -1,2 +1,2 @@
 # CS231n
-Standford CS231n Assignment
+Stanford CS231n Assignment
